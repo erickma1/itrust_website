@@ -1,0 +1,7 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^itrust\.solutions$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.itrust\.solutions$
+RewriteRule ^/?$ "https\:\/\/itrust\.solutions\/" [R=301,L]
