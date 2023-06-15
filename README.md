@@ -3,7 +3,6 @@
 
 <div align="center">
   
-  
   <br/>
 
   # My Portfolio: Setup and Mobile First
