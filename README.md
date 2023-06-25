@@ -91,6 +91,7 @@ One of the following browsers is required:
     <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
     <li><a href="https://www.microsoft.com/edge">Microsoft Edge</a></li>
     <li><a href="https://www.mozilla.org/en-US/firefox">Mozilla Firefox</a></li>
+  <li><a href="https://www.mozilla.org/en-US/firefox">Opera</a></li>
   </ul>
 
 
